@@ -1,5 +1,5 @@
 JavaScript Coding Quiz
-
+![](workingPic.png)
 README.md
 
 Coding Quiz Challenge:
