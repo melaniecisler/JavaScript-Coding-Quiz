@@ -1,7 +1,6 @@
 JavaScript Coding Quiz
 ![](workingPic.png)
 README.md
-
 Coding Quiz Challenge:
 
 This is a JavaScript Quiz asking relevant coding questions with multiple choice options. Using front-end concepts, Bootstrap, some jQuery, and dynamically updated HTML and CSS that runs in your browser. Press Start Quiz button to begin.
